@@ -28,6 +28,10 @@ The Haar Classifier in this project is trained to classify birds and cockatiels.
 
 The SqueezeNet Classifier is trained to classify five (5) different cockatiel species: Cinnamon, Lutino, Pearl, Pied, and Whiteface.
 
+## Published Article
+
+Link to published article: https://ebooks.iospress.nl/volumearticle/75521
+
 ## Live Mode
 
 By default, `main.py` will run in **live mode**. In this case, the classifier will test each frame that passes through the camera.
